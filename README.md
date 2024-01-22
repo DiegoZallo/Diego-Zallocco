@@ -1,4 +1,4 @@
-### Hi, I'm Thi 👋 — looking for a job as a Web Developer 🔭
+### Hi, I'm Diego Zallocco 👋 — looking for a job as a Web Developer 🔭
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-zallocco-0638b2249/)](https://www.linkedin.com/in/diego-zallocco-0638b2249/) 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/DiegoZallo)](https://github.com/DiegoZallo)
